@@ -1,5 +1,8 @@
 # User Goals Dashboard
 
+![Dashboard Banner](src/assets/image.png "User Goals Dashboard")
+
+
 A React-based dashboard for managing users and their goals, built with Vite, React Router, and TailwindCSS.
 
 ## 🚀 Features
@@ -61,4 +64,3 @@ VITE_MAX_GOALS_PER_USER=20
 4. Start the development server:
 ```bash
 npm run dev
-![alt text](image.png)
